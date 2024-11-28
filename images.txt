@@ -1,5 +1,6 @@
+python:3.14-rc-alpine3.19
 minio:latest
 nginx:latest
 mysql:8
 redis:latest
-python:3.14-rc-alpine3.19
+
