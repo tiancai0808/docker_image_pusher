@@ -2,4 +2,4 @@ minio:latest
 nginx:latest
 mysql:8
 redis:latest
-python:latest
+python:3.14-rc-alpine3.19
